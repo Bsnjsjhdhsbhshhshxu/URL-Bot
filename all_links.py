@@ -8,3 +8,4 @@ random_directlink = choice([
     'https://vdbaa.com/fullpage.php?section=General&pub=183874&ga=g'
 ])
 
+
